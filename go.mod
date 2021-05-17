@@ -9,7 +9,7 @@ require (
 	github.com/awslabs/goformation/v4 v4.15.0
 	github.com/briandowns/spinner v1.11.1
 	github.com/dustin/go-humanize v1.0.0
-	github.com/fatih/color v1.9.0
+	github.com/fatih/color v1.11.0
 	github.com/fatih/structs v1.1.0
 	github.com/gobuffalo/packd v1.0.0
 	github.com/gobuffalo/packr/v2 v2.8.0
@@ -18,7 +18,6 @@ require (
 	github.com/hinshun/vt10x v0.0.0-20180809195222-d55458df857c // indirect
 	github.com/imdario/mergo v0.3.9
 	github.com/karrick/godirwalk v1.15.6 // indirect
-	github.com/mattn/go-colorable v0.1.6 // indirect
 	github.com/mitchellh/mapstructure v1.3.0 // indirect
 	github.com/moby/buildkit v0.7.2
 	github.com/onsi/ginkgo v1.14.0
